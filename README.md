@@ -1,5 +1,5 @@
 # Refinando um projeto de banco de dados para o contexto de um E-commerce
-Desafio de projeto do Bootcamp "Geração Tech Unimed-BH - Ciência de Dados", em parceria com a Digital Innovation One. Este projeto foi desenvolvido utilizando MySQL Workbenc.
+Desafio de projeto do Bootcamp "Geração Tech Unimed-BH - Ciência de Dados", em parceria com a Digital Innovation One. Este projeto foi desenvolvido utilizando MySQL Workbench.
 
 ## Objetivo
 Criar os modelos conceitual (entidade-relacionamento) e lógico (modelo relacional) que representem o contexto de um E-commerce.
